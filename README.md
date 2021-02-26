@@ -2,11 +2,13 @@
 
 <a href="https://www.linkedin.com/in/abil-savio">
   <img alt="LinkedIn" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" />
-</a>&nbsp
+</a>
 <a href="https://www.instagram.com/abilsavio">
   <img alt="Instagram" width="22px" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" />
-</a>&nbsp
-<img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=ByteCrak07.ByteCrak07"/>
+</a>
+<span>
+  <img alt="vistors" src="https://visitor-badge.glitch.me/badge?page_id=ByteCrak07.ByteCrak07"/>
+</span>
 
 <br/>
 
